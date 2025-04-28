@@ -27,3 +27,6 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 - I'm exploring Python adn Nest.js to enhance my skill set.
 - I thrive in the late hours, always driven and constantly learning in the tech world.
 - I'm interested in solving real time problems...!!
+
+## 📈 My GitHub Stats
+![Varshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshithvatte24&show_icons=true&theme=radical)
