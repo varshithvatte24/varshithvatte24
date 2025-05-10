@@ -21,6 +21,8 @@ I'm a 20 year old developer based in India, and I'm passionate about Software De
 .⠀ 　　　　　　　　　　.
 
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ## 🔭 Current Endeavors 
 
 I'm currently persuing my Graduation in India, where my journey involves both building and learning. Here's what I'm currently focused on:
