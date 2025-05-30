@@ -3,6 +3,10 @@
 I'm a 20 year old developer based in India, and I'm passionate about Software Development. 
 
 
+<!-- GitHub stats -->
+![varshithvatte24's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+
 
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀　　　　　　✦ 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☀️
