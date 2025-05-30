@@ -1,4 +1,4 @@
-# Hi there, I’m <a href="https://www.linkedin.com/in/varshith-reddy-a8514b257/">Varshith Reddy</a> 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hi there, I’m <a href="https://www.linkedin.com/in/varshith-reddy-a8514b257/">Varshith Reddy</a>  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 A passionate 20-year-old software developer from India, dedicated to crafting innovative solutions and constantly expanding my technical horizons.
 
