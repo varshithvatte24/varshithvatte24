@@ -36,7 +36,7 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 ![Varshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshithvatte24&show_icons=true&theme=radical)
 
 
-##📫 Contact
+## 📫 Contact
 
 for a quick response, DM me on [Linked-in](https://www.linkedin.com/in/varshith-reddy-a8514b257/)
 
