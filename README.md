@@ -1,4 +1,4 @@
-# Hi there, I’m <a href="https://www.linkedin.com/in/varshith-reddy-a8514b257/">Varshith Reddy</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hi there, I’m <a href="https://www.linkedin.com/in/varshith-reddy-a8514b257/">Varshith Reddy</a> 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 A passionate 20-year-old software developer from India, dedicated to crafting innovative solutions and constantly expanding my technical horizons.
 
@@ -41,15 +41,15 @@ A passionate 20-year-old software developer from India, dedicated to crafting in
 ### 📊 GitHub Insights
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshithvatte24&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvatte24&layout=compact&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshithvatte24&show_icons=true&theme=nightowl" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvatte24&layout=compact&theme=nightowl" width="48%" />
 </p>
 
 ---
 
 ### ⚡ GitHub Activity Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varshithvatte24&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varshithvatte24&theme=nightowl)
 
 ---
 
@@ -60,4 +60,4 @@ A passionate 20-year-old software developer from India, dedicated to crafting in
 
 ---
 
-*Thanks for stopping by — let's build something amazing together!* 🚀
+Thanks for stopping by — let's build something amazing together! 🚀
