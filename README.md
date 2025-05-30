@@ -47,7 +47,7 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 </p>
 
 
-## ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+## ![Profile Views](https://komarev.com/ghpvc/?username=varshithvatte24&color=blue&style=flat)
 
 
 
