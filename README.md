@@ -2,9 +2,8 @@
 
 I'm a 20 year old developer based in India, and I'm passionate about Software Development. 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvatte24&layout=compact&theme=radical)
 
-<!-- GitHub stats -->
-![varshithvatte24's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 
 
