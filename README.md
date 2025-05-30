@@ -63,3 +63,18 @@ For professional inquiries, reach out via email at varshithvatte2005@gmail.com.
 ## ⚡ Additional GitHub Stats (Optional)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varshithvatte24&theme=radical)
+
+
+
+## 📈 My GitHub Stats & Most Used Languages
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=varshithvatte24&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvatte24&layout=compact&theme=dracula" width="48%" />
+</p>
+
+---
+
+## ⚡ Additional GitHub Stats (Optional)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varshithvatte24&theme=dracula)
