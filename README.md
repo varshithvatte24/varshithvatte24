@@ -1,8 +1,6 @@
 # Hello, I am <a href="https://www.linkedin.com/in/varshith-reddy-a8514b257/">Varshith Reddy</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-I'm a 20-year-old developer based in India, passionate about Software Development. 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvatte24&layout=compact&theme=radical)
+I'm a 20-year-old developer based in India, passionate about Software Development.
 
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀　　　　　　✦ 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☀️
@@ -47,9 +45,12 @@ I'm currently pursuing my Graduation in India, where my journey involves both bu
 
 ## ![Profile Views](https://komarev.com/ghpvc/?username=varshithvatte24&color=blue&style=flat)
 
-## 📈 My GitHub Stats
+## 📈 My GitHub Stats & Most Used Languages
 
-![Varshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshithvatte24&show_icons=true&theme=radical)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=varshithvatte24&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvatte24&layout=compact&theme=radical" width="48%" />
+</p>
 
 ## 📫 Contact
 
